@@ -1,5 +1,5 @@
 # Pepper-Arc-Grey-Theme
- __Tema baseado em Arc Theme na cor cinza.
+ _Tema baseado em Arc Theme na cor cinza.
 _____
 # Como instalar
 Ao baixar o arquivo .zip, extrair a pasta pepper-arc-grey-theme-master para sua /home. Dentro dessa pasta tem o arquivo Pepper Arc Grey.zip, extrair a pasta Pepper Arc Grey para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
